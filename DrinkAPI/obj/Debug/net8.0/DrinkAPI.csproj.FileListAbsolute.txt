@@ -1,0 +1,14 @@
+D:\DrinkInfo\DrinkAPI\bin\Debug\net8.0\DrinkAPI.exe
+D:\DrinkInfo\DrinkAPI\bin\Debug\net8.0\DrinkAPI.deps.json
+D:\DrinkInfo\DrinkAPI\bin\Debug\net8.0\DrinkAPI.runtimeconfig.json
+D:\DrinkInfo\DrinkAPI\bin\Debug\net8.0\DrinkAPI.dll
+D:\DrinkInfo\DrinkAPI\bin\Debug\net8.0\DrinkAPI.pdb
+D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\DrinkAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\DrinkAPI.AssemblyInfoInputs.cache
+D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\DrinkAPI.AssemblyInfo.cs
+D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\DrinkAPI.csproj.CoreCompileInputs.cache
+D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\DrinkAPI.dll
+D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\refint\DrinkAPI.dll
+D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\DrinkAPI.pdb
+D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\DrinkAPI.genruntimeconfig.cache
+D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\ref\DrinkAPI.dll

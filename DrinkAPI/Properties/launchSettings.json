@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DrinkAPI": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\DrinkInfo\\DrinkAPI\\DrinkAPI.csproj"
+    }
+  }
+}
