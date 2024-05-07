@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ojHzMz2tu17yfp9nWbk7kqNIvRecw6vVOT0tEwIxsVDbC+T6cZMNaoIHa/ZdX2aCQZk0G2of7w4iNTXDXy2I3A==",
+  "dgSpecHash": "NpQLc+Fpkji/DyytTNRg36ZCg2gMuDa1+flrc6st3hgdSB5MokMGYVg3t+RAN5IWJhkM+lIdE+OQpjKYQ1Yc9Q==",
   "success": true,
   "projectFilePath": "D:\\DrinkInfo\\DrinkAPI\\DrinkAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Tien\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
   "logs": []
 }

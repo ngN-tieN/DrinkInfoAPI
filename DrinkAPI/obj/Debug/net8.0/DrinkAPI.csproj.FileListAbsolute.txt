@@ -12,3 +12,7 @@ D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\refint\DrinkAPI.dll
 D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\DrinkAPI.pdb
 D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\DrinkAPI.genruntimeconfig.cache
 D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\ref\DrinkAPI.dll
+D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\DrinkAPI.sourcelink.json
+D:\DrinkInfo\DrinkAPI\bin\Debug\net8.0\Spectre.Console.dll
+D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\DrinkAPI.csproj.AssemblyReference.cache
+D:\DrinkInfo\DrinkAPI\obj\Debug\net8.0\DrinkAPI.csproj.Up2Date
