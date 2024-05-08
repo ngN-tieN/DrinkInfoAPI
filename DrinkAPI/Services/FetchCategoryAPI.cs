@@ -7,7 +7,7 @@ namespace DrinkAPI.Services
 {
     internal class FetchCategoryAPI
     {
-        public async Task<List<CategoryDTO>> FetchCategories()
+        public async Task<List<CategoryDTO>> FetchCategoriesAsync()
         {
             using (HttpClient client = new())
             { 
@@ -25,6 +25,7 @@ namespace DrinkAPI.Services
             return categories.Categories;
             
         }
+
 
     }
 }
