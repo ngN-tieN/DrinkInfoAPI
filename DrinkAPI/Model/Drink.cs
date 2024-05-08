@@ -9,13 +9,11 @@ namespace DrinkAPI.Model
 {
     internal class DrinkDTO
     {
+        [property: JsonPropertyName("idDrink")]
+        public string Id { get; set; }
+
         [property: JsonPropertyName("strDrink")]
-        public int Drink{ get; set; }
+        public string Drink{ get; set; }
 
-        [property:JsonPropertyName("strDrinkThumb")] 
-        public Uri DrinkThumb { get; set; }
-
-        [property:JsonPropertyName("idDrink")]
-        public int Id { get; set;}
     }
 }
