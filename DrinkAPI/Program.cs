@@ -1,10 +1,14 @@
-﻿namespace DrinkAPI
+﻿using DrinkAPI.Services;
+using DrinkAPI.Utils;
+
+namespace DrinkAPI
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var list = await new FetchDrinksByCategoryAPI().FetchDrinksByCategoryAsync("Cocktail");
+            TableExt.PrintDrinksInfoTable(list);
         }
     }
 }
