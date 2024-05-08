@@ -6,6 +6,6 @@ namespace DrinkAPI.Models
     internal class CategoryDTO
     {
         [property: JsonPropertyName("strCategory")]
-        public string Category { get; set; } 
+        public string Name { get; set; } 
     }
 }
