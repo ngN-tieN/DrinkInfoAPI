@@ -17,13 +17,26 @@ namespace DrinkAPI.Utils
         public string GetCategoryName(List<CategoryDTO> categories)
         {
             string categoryName = GetString("Please enter category name");
-            bool isContainCategory = categories.Any(c => c.Name.Equals(categoryName));
-            if (!isContainCategory)
+            bool isContainsCategory = categories.Any(c => c.Name.Equals(categoryName));
+            if (!isContainsValidCharacter(categoryName))
+            {
+                Console.WriteLine("Invalid character!");
+                categoryName = "";
+            }
+            if (!isContainsCategory)
             {
                 Console.WriteLine("Category not found");
                 categoryName = "";
             }
             return categoryName;
+        }
+        public bool isContainsValidCharacter(string str)
+        {
+            foreach(var c in str)
+            {
+                if (!c.Equals(" ") && !c.Equals("/") && !char.IsLetter(c)) return false;
+            }
+            return true;
         }
     }
 }
